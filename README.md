@@ -1,1 +1,2 @@
-# effective-enigma
+# Part I - WeatherPy
+# Part II - VacationPy
